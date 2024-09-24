@@ -158,6 +158,11 @@ export class CustomOpenAi implements INodeType {
 						value: 'Gemini-1.5-Pro-1M',
 					},
 					{
+						name: 'Qwen-14B-Chat',
+						displayName: 'Qwen-14B-Chat',
+						value: 'Qwen-14B-Chat',
+					},
+					{
 						name: 'DALL-E-3',
 						displayName: 'DALL-E-3',
 						value: 'DALL-E-3',
