@@ -1,4 +1,4 @@
-# N8N-Custom-OpenAPI-Style-API-Chat-Node
+# N8N-Custom-OpenAPI-Style-AI-Chat-Node
 
 ## Purpose
 
