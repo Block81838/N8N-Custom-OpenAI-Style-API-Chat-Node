@@ -53,5 +53,8 @@
 	},
 	"peerDependencies": {
 		"n8n-workflow": "*"
+	},
+	"dependencies": {
+		"pnpm": "^9.11.0"
 	}
 }

@@ -172,6 +172,11 @@ export class CustomOpenAi implements INodeType {
 						displayName: 'StableDiffusionXL',
 						value: 'StableDiffusionXL',
 					},
+					{
+						name: "Web-Search",
+						displayName: "Web-Search",
+						value: "Web-Search",
+					}
 				],
 				description: 'Who do you wanna ask',
 			},
